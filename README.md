@@ -1,6 +1,7 @@
+<h3 align="center"><a href="https://mp333player.com" target="_blank">Click Here</a> to Know ME More！</h3>
 
-## 『[Click Here](https://mp333player.com)』to Know ME More！
 
+---
 [![wakatime](https://wakatime.com/badge/user/018dcfb3-6f20-4fee-8fb1-34e14d275e67.svg)](https://wakatime.com/@018dcfb3-6f20-4fee-8fb1-34e14d275e67)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/liW-J)
 [![Jekyll](https://img.shields.io/badge/Jekyll-C00?logo=jekyll&logoColor=fff)](https://mp333player.com)
