@@ -1,5 +1,4 @@
-<h3 align="center">『<a href="https://mp333player.com" target="_blank">Click Here</a>』 to Know ME More！</h3>
-
+<h3 align="center"> <a href="https://mp333player.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=B507AC&center=true&vCenter=true&repeat=false&width=550&lines=『+Click+Here+』+%F0%9F%93%8C+Know+more+about+Jeanne+Willis" alt="Typing SVG" /></a></h3>
 
 ---
 [![wakatime](https://wakatime.com/badge/user/018dcfb3-6f20-4fee-8fb1-34e14d275e67.svg)](https://wakatime.com/@018dcfb3-6f20-4fee-8fb1-34e14d275e67)
